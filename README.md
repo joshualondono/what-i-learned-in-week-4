@@ -1,14 +1,8 @@
-# what-i-learned-in-week-4
-
-
 ###### Joshua Londono
 
 ---
 
 ### What I Learned - Week 4
-
----
-
 ---
 
 ### Javascript
